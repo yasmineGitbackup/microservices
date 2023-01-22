@@ -1,10 +1,11 @@
 [![Python application test with Github Actions](https://github.com/phoebe20200523/microservices/actions/workflows/devops.yml/badge.svg)](https://github.com/phoebe20200523/microservices/actions/workflows/devops.yml)
 [![aws code build passing](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiNTBzTkRqd3FvL2dpQ3hsTHBvaE41N2c0TUN4UGt0dEFZR0dSK3B1RnBVU1N4OVRRWmRYV01ZRGVWSFMrdWlvbkhrSVB4c3k3ZzR0UmJCQ0UvalZ1dmI0PSIsIml2UGFyYW1ldGVyU3BlYyI6InZNVDc0dXdBSDAzUjVoeXQiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 # microservices
+## Design 
+<img width="1022" alt="Screen Shot 2023-01-22 at 3 30 27 PM" src="https://user-images.githubusercontent.com/65870261/213938825-c9e9b9cb-818e-4398-b6b9-904914fd8e35.png">
+
 
 ## Scaffold
-
-<img width="344" alt="Screen Shot 2023-01-21 at 3 20 23 PM" src="https://user-images.githubusercontent.com/65870261/213885719-7dea24bf-7ae5-4932-b599-8f26f76837b1.png">
 
 1. Create a Python Virtual Environment `python3 -m venv ~/.venv` or 'virtualenv ~/.venv`
 2. Create empty files: `Makefile`, `requirements.txt`, `main.py`, `Dockerfile`, `mylib/__init__.py`
