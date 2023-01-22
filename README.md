@@ -13,3 +13,11 @@
 <img width="1493" alt="lint-failure" src="https://user-images.githubusercontent.com/65870261/213890317-11c29a80-54b3-4703-8b03-15d0e1cd7bdf.png">
 
 5. Build cli using Python Fire libraray ' ./cli-fire.py --help` to test logic
+
+
+## Demo
+
+
+
+https://user-images.githubusercontent.com/65870261/213937517-6ff87f93-4395-4164-b646-fb0a3e2535bf.mp4
+
