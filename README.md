@@ -1,4 +1,5 @@
 [![Python application test with Github Actions](https://github.com/phoebe20200523/microservices/actions/workflows/devops.yml/badge.svg)](https://github.com/phoebe20200523/microservices/actions/workflows/devops.yml)
+[![aws code build passing](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiNTBzTkRqd3FvL2dpQ3hsTHBvaE41N2c0TUN4UGt0dEFZR0dSK3B1RnBVU1N4OVRRWmRYV01ZRGVWSFMrdWlvbkhrSVB4c3k3ZzR0UmJCQ0UvalZ1dmI0PSIsIml2UGFyYW1ldGVyU3BlYyI6InZNVDc0dXdBSDAzUjVoeXQiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 # microservices
 
 ## Scaffold
