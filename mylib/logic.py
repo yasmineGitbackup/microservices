@@ -23,3 +23,4 @@ def phrase(name):
     page = wiki(name)
     blob = TextBlob(page)
     return blob.noun_phrases
+
