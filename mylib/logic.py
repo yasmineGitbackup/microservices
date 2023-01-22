@@ -1,5 +1,6 @@
 import wikipedia
-#from textblob import TextBlob
+
+# from textblob import TextBlob
 
 
 def wiki(name="War Goddess", length=1):
@@ -16,7 +17,7 @@ def search_wiki(name):
     return results
 
 
-#def phrase(name):
+# def phrase(name):
 #    """Returns phrases from wikipedia"""
 
 #    page = wiki(name)

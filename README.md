@@ -10,3 +10,5 @@
 3. Populate `Makefile`
 4. Setup Continuous Integeration, i.e. check code for issues like lint errors
 <img width="1493" alt="lint-failure" src="https://user-images.githubusercontent.com/65870261/213890317-11c29a80-54b3-4703-8b03-15d0e1cd7bdf.png">
+
+5. Build cli using Python Fire libraray ' ./cli-fire.py --help` to test logic
