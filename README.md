@@ -5,7 +5,7 @@
 <img width="1022" alt="Screen Shot 2023-01-22 at 3 30 27 PM" src="https://user-images.githubusercontent.com/65870261/213938825-c9e9b9cb-818e-4398-b6b9-904914fd8e35.png">
 
 
-## Scaffold
+## Steps
 
 1. Create a Python Virtual Environment `python3 -m venv ~/.venv` or 'virtualenv ~/.venv`
 2. Create empty files: `Makefile`, `requirements.txt`, `main.py`, `Dockerfile`, `mylib/__init__.py`
